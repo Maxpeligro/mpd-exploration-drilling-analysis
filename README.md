@@ -25,6 +25,7 @@ that predicts high-grade Cu intervals from core logging observations alone.
 
 ## Project Structure
 
+```
 Exploration Analytics/
 ├── Data/
 │   ├── raw/                        # Original CSV appendices from ARIS report
@@ -46,7 +47,7 @@ Exploration Analytics/
 │   ├── section_1_axe_002_004_003.png
 │   └── section_2_axe_008_011_001.png
 └── requirements.txt
-
+```
 ---
 
 ## Notebooks
