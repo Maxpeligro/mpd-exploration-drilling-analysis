@@ -89,11 +89,11 @@ Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly, Foliu
 
 ## Data Source
 
-All data sourced from BC ARIS Assessment Report 42616 — publicly 
-available through the BC Ministry of Energy, Mines and Low Carbon 
-Innovation.
+All data sourced from the BC Assessment Report Information System (ARIS), 
+Assessment Report 42616 — publicly available through the Province of 
+British Columbia.
 
-[BC ARIS Public Portal](https://aris.empr.gov.bc.ca/)
+[View Report on BC ARIS](https://apps.nrs.gov.bc.ca/pub/aris/Detail/42616)
 
 ---
 
