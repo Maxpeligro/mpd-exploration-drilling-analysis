@@ -75,13 +75,11 @@ analysis identifies SKN + MM as the strongest grade combination and
 confirms AXE-23-011 as the top-ranked hole.
 
 **04 — Data Visualization and Spatial Analysis**
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/Maxpeligro/mpd-exploration-drilling-analysis/blob/main/Notebooks/04_data_visualization_and_spatial_analysis.ipynb)
-
 Scores and ranks all 26 drillholes across four geological criteria, 
 builds 3D drillhole geometry, generates plan-view and cross-section 
 visualizations, and validates findings against Kodiak's published 
-interpretation. Contains an interactive Folium map and Plotly 3D 
-drillhole visualization.
+interpretation. Contains a clickable interactive plan-view map with 
+geology overlay — open the notebook to access it.
 
 **05 — Machine Learning**
 Trains and evaluates six binary classification models — Logistic 
