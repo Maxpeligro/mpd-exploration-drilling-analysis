@@ -85,6 +85,7 @@ Trains and evaluates six binary classification models — Logistic Regression, S
 ## Tech Stack
 
 Python (Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly, Folium) · SQL · DuckDB · Jupyter · Git
+
 ---
 
 ## Data Source
